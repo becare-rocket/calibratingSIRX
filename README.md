@@ -1,3 +1,7 @@
 # calibratingSIRX
-Code and Data for Calibrating an Epidemic Compartment Model Paper
-While the paper is waiting to post to Medrxiv will attempt to leave it here.
+The paper describing the technique shown in the code is available on medRxiv by following this link:
+https://www.medrxiv.org/content/10.1101/2020.05.27.20110478v1
+
+or
+
+https://doi.org/10.1101/2020.05.27.20110478
